@@ -1,8 +1,8 @@
 # Tejas Inventory Managemnt
 
+##Initializer
 
-
-Minimal [Spring Boot](http://projects.spring.io/spring-boot/) sample app.
+Minimal [Spring Boot](http://projects.spring.io/) sample app.
 
 ## Requirements
 
