@@ -31,9 +31,6 @@ mvn spring-boot:run
 
 -----------------------------------------------------------
 # Backend Nodejs
-
-
-
 ---
 ## Requirements
 
@@ -59,9 +56,7 @@ If the installation was successful, you should be able to run the following comm
 
     $ node --version
     v8.11.3
-
-    $ npm --version
-    6.1.0
+  
 
 If you need to update `npm`, you can make it using `npm`!  After running the following command, just open again the command line and be happy.
 
@@ -81,7 +76,9 @@ If you need to update `npm`, you can make it using `npm`!  After running the fol
     $ cd PROJECT_TITLE
     $ yarn install
 
+# Create Database in Local System 
 
+   $ create database tejas_app;
 
 ## Running the project
 
