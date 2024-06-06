@@ -91,7 +91,6 @@ If you need to update `npm`, you can make it using `npm`!  After running the fol
 
 ---
 # Front-end ReactJs
-# Simple React JS Project
 
 ## What is the use of this Repo
 
@@ -101,12 +100,8 @@ This Project is a Simple ReactJS Project which demonstrates the following
 3. Communicating between parent and child component
 4. Using Basic Routing in React
 
-The project Template can be used to build bigger projects
 
-## Live Application URL
 
-### https://aditya-sridhar.github.io/simple-reactjs-app
-This URL has the application deployed in
 
 ## Prerequisites
 
