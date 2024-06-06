@@ -1,8 +1,6 @@
 # Tejas Inventory Managemnt
 
-[![Build Status]
-[![Coverage Status]
-[![License]
+
 
 Minimal [Spring Boot](http://projects.spring.io/spring-boot/) sample app.
 
