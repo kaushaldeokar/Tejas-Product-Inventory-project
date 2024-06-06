@@ -1,6 +1,6 @@
 # Tejas Inventory Managemnt
 --------------------------------------
-
+The Tejas Product Inventory Management System is designed to streamline and optimize the management of Tejas Networks' extensive inventory of network products. This system leverages modern technologies to address the complexities of inventory management, providing a robust, scalable, and efficient solution. The backend is developed using both Java Spring Boot and Node.js individually, allowing for comparative advantages in security, performance, and scalability. The frontend is built using React.js, ensuring a responsive and interactive user experience, while MySQL is employed for reliable and efficient database management. By integrating these technologies, the system offers real-time inventory tracking, reporting capabilities. This approach enhances operational efficiency, reduces costs, and improves decision-making processes, ultimately supporting Tejas Networks' goal of maintaining optimal inventory levels and superior customer service.​
 
 --------------------------------------
 
@@ -88,4 +88,63 @@ If you need to update `npm`, you can make it using `npm`!  After running the fol
 ## Running the project
 
     $ npm start
+
+---
+# Front-end ReactJs
+# Simple React JS Project
+
+## What is the use of this Repo
+
+This Project is a Simple ReactJS Project which demonstrates the following
+1. Creating a Component in React
+2. Making HTTP calls
+3. Communicating between parent and child component
+4. Using Bootstrap along with React
+5. Using Basic Routing in React
+
+The project Template can be used to build bigger projects
+
+## Live Application URL
+
+### https://aditya-sridhar.github.io/simple-reactjs-app
+This URL has the application deployed in
+
+## Prerequisites
+
+### Install Node JS
+Refer to https://nodejs.org/en/ to install nodejs
+
+### Install create-react-app
+Install create-react-app npm package globally. This will help to easily run the project and also build the source files easily. Use the following command to install create-react-app
+
+```bash
+npm install -g create-react-app
+```
+
+## Cloning and Running the Application in local
+
+Clone the project into local
+
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+
+```bash
+npm install
+```
+
+In order to run the application Type the following command
+
+```bash
+npm start
+```
+
+The Application Runs on **localhost**
+
+#### HTTP client
+
+**axios** library is used to make HTTP Calls
+
+## Resources
+
+**ReactJS** : Refer to https://reactjs.org/ to understand the concepts of ReactJS
+
 
