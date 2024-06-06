@@ -141,8 +141,13 @@ The Application Runs on **localhost:5173**
 
 **ReactJS** : Refer to https://reactjs.org/ to understand the concepts of ReactJS
 
+![Screenshot from 2024-06-05 10-55-54](https://github.com/kaushaldeokar/Tejas-Product-Inventory-project/assets/91072847/e01790ec-bb65-4efd-9bdf-2bf98b4e4cc0)
+
+
 
 ![Screenshot from 2024-06-06 10-38-36](https://github.com/kaushaldeokar/Tejas-Product-Inventory-project/assets/91072847/c0ea79ce-7c4b-47c9-b9dd-710817414a1f)
+
+
 
 ![Screenshot from 2024-06-05 10-54-00](https://github.com/kaushaldeokar/Tejas-Product-Inventory-project/assets/91072847/161ba283-76ac-460d-9336-0686d1e10ee9)
 
