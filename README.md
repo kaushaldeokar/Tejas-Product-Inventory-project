@@ -1,7 +1,4 @@
 # Tejas Inventory Managemnt
-
-
-
 [![SpringBoot]]
 
 
