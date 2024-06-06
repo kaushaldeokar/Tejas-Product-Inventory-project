@@ -1,5 +1,11 @@
 # Tejas Inventory Managemnt
 
+
+
+[![SpringBoot]]
+
+
+
 ## Initializer
 
 Minimal [Spring Boot](http://projects.spring.io/) sample app.
@@ -10,6 +16,7 @@ For building and running the application you need:
 
 - [JDK 22]
 - [Maven Build Tool]
+- [MySql Server]
 
 ## Running the application locally
 
@@ -20,5 +27,4 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
-
 
