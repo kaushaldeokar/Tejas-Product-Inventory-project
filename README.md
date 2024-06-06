@@ -131,7 +131,7 @@ In order to run the application Type the following command
 npm run dev
 ```
 
-The Application Runs on **localhost**
+The Application Runs on **localhost:5173**
 
 #### HTTP client
 
