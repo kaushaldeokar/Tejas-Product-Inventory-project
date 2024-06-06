@@ -19,6 +19,10 @@ For building and running the application you need:
 - [Maven Build Tool]
 - [MySql Server]
 
+## Create Database in Local System 
+
+   $ create database tejas_app;
+
 ## Running the application locally
 
 There are several ways to run a Spring Boot application on your local machine. One way is to execute the `main` method in the `src/main/java/BackendApplication.java` class from your IDE.
@@ -76,7 +80,7 @@ If you need to update `npm`, you can make it using `npm`!  After running the fol
     $ cd PROJECT_TITLE
     $ yarn install
 
-# Create Database in Local System 
+## Create Database in Local System 
 
    $ create database tejas_app;
 
