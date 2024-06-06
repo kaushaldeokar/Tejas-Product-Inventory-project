@@ -1,6 +1,6 @@
 # Tejas Inventory Managemnt
 
-##Initializer
+## Initializer
 
 Minimal [Spring Boot](http://projects.spring.io/) sample app.
 
