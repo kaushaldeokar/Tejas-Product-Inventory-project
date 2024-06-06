@@ -1,6 +1,6 @@
 # Tejas Inventory Managemnt
-[![SpringBoot]]
 
+#Backend SpringBoot
 
 
 ## Initializer
