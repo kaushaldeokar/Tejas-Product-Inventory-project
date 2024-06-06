@@ -82,11 +82,8 @@ If you need to update `npm`, you can make it using `npm`!  After running the fol
 
 ## Create Database in Local System 
 
-   $ create database tejas_app;
-
     $ create database tejas_app;
-    $ cd PROJECT_TITLE
-    $ yarn install
+    
 
 ## Running the project
 
